@@ -10,6 +10,7 @@ const removeFromArray = function(firstArg, ...restArg) {
 
 };
 
+
 removeFromArray([1,2,3], 3,2);
 
 // Do not edit below this line
